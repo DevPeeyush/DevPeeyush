@@ -1,29 +1,190 @@
-# 💫 Hi, I AM PEEYUSH VERMA:
-- 🎓 I’m currently pursuing **B.Tech in Computer Science and Engineering**  <br>  with a specialization in **Data Science & Airtificial Inteligence** at **JECRC University, Jaipur**<br>- 📊 I’m working on real-world projects in **Python, Pandas, Excel, and Power Bi**<br>- 🚀 I’m currently learning **Machine Learning, SQL, and Advanced Analytics**<br>- 💼 Actively looking for **internship opportunities** in data analysis, business analytics, and data science<br>- 🌱 I regularly practice with **YouTube data, sales dashboards, and open datasets**<br>- 💡 Always eager to explore new trends in **AI, Data Visualization**, and **Automation**
+# Hi 👋, I'm Peeyush Verma
 
+<h3 align="center">Aspiring Data Analyst | AI/ML Enthusiast | Python Developer</h3>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
- ![PowerBI](https://img.shields.io/badge/PowerBI-%23ffffff.svg?style=for-the-badge&logo=PowerBI&logoColor=blue)
- ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Machine+Learning+Enthusiast;AI+Developer;Python+Programmer;Open+Source+Learner" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DevPeeyush&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevPeeyush&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DevPeeyush&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DevPeeyush&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tanishk_sharma___/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/tanishk-sharma9905) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dive_in_data_09) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/tanishksharma9905)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#sentcompose=CllgCJTNqrZZZwXMhmXBdLGwHNPgkcRPZpnLTWhsNNZHHdvPtQfNmdstQwbNZrLDNHGNGGzxmSV)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DevPeeyush&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DevPeeyush&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+🎓 B.Tech CSE (AI & ML) @ JECRC University
+
+📊 Passionate about Data Analytics, Machine Learning and Artificial Intelligence
+
+💼 Former Data Analyst Intern at Samatrix Consulting Pvt. Ltd.
+
+🌱 Currently Learning:
+- Advanced Machine Learning
+- Deep Learning
+- MLOps
+- Data Engineering
+
+⚡ I enjoy solving DSA problems and building AI-powered applications.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/peeyush-verma1">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="https://portfolio-website-demo-1.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/DevPeeyush">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="https://codolio.com/profile/PeeyushVerma">
+<img src="https://img.shields.io/badge/Codolio-Profile-orange?style=for-the-badge"/>
+</a>
+</p>
+
+---
+
+# 🧩 DSA & Problem Solving
+
+<p align="center">
+
+<a href="https://leetcode.com/u/MHWqpNfcI7/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://codeforces.com/profile/DevPeeyush">
+<img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/vermapeeyush123">
+<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</p>
+
+<p align="center">
+<a href="https://codolio.com/profile/PeeyushVerma">
+<img src="https://img.shields.io/badge/View%20Complete%20DSA%20Profile-Codolio-success?style=for-the-badge"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,r,mysql,html,css,javascript" />
+</p>
+
+### AI / ML / Data Science
+- Pandas
+- NumPy
+- Scikit-Learn
+- TensorFlow
+- Keras
+- OpenCV
+- NLTK
+- Matplotlib
+- Seaborn
+
+### Backend & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,git,github,vscode,linux" />
+</p>
+
+---
+
+## 💼 Experience
+
+### Data Analyst Intern | Samatrix Consulting Pvt. Ltd.
+
+- Performed Data Cleaning and Preprocessing on real-world datasets
+- Conducted Exploratory Data Analysis (EDA)
+- Applied statistical techniques to identify trends and patterns
+- Generated actionable insights for data-driven decision-making
+- Worked extensively with Pandas, NumPy, and Scikit-Learn
+
+---
+
+## 🚀 Featured Projects
+
+### 📩 SMS Spam Detection System
+- Machine Learning web application for spam classification
+- TF-IDF Vectorization
+- FastAPI Backend
+- Streamlit Frontend
+- Achieved ~95% Accuracy
+
+### 🏏 IPL Data Analysis (2008–2023)
+- Statistical Analysis of IPL datasets
+- Team Performance Insights
+- Feature Engineering
+- Data Visualization
+- Hypothesis Testing
+
+### 🌾 AI Crop Disease Detection
+- Developed during Code For Bharat Season-2
+- Computer Vision-based Disease Detection
+- Crop Health & Nutrition Analysis
+- Farmer Assistance System
+
+---
+
+## 🏆 Certifications
+
+✅ Data Analysis Using Python
+
+✅ Probability Modelling Using Python
+
+✅ Machine Learning and Pattern Recognition
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevPeeyush&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPeeyush&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevPeeyush&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=DevPeeyush&theme=tokyonight&column=7"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Peeyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevPeeyush&theme=tokyo-night)](https://github.com/DevPeeyush)
+
+---
+
+## 📫 Contact
+
+- Email: peeyushju@gmail.com
+- LinkedIn: https://www.linkedin.com/in/peeyush-verma1
+- Portfolio: https://portfolio-website-demo-1.vercel.app/
+- GitHub: https://github.com/DevPeeyush
+
+---
+
+<h3 align="center">
+⭐ Turning Data into Insights and Ideas into Intelligent Solutions ⭐
+</h3>
