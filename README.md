@@ -1,13 +1,9 @@
 # Hi 👋, I'm Peeyush Verma
 
-<h3 align="center">Aspiring Data Analyst | AI/ML Enthusiast | Python Developer</h3>
+<h3 align="center">Data Science | AI/ML Enthusiast | Python Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Machine+Learning+Enthusiast;AI+Developer;Python+Programmer;Open+Source+Learner" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevPeeyush&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -15,16 +11,15 @@
 ## 🚀 About Me
 
 🎓 B.Tech CSE (AI & ML) @ JECRC University
-
-📊 Passionate about Data Analytics, Machine Learning and Artificial Intelligence
-
-💼 Former Data Analyst Intern at Samatrix Consulting Pvt. Ltd.
-
+📊 Passionate about Data Science, Machine Learning and Artificial Intelligence, GenAi, RAG
+💼 Complete Internship at Celebal Technology Pvt. Ltd. as Data Science Intern.
+💼 Complete Internship at Samatrix Consulting Pvt. Ltd. as  Data Analyst Intern.
 🌱 Currently Learning:
-- Advanced Machine Learning
-- Deep Learning
-- MLOps
-- Data Engineering
+  - Advanced Machine Learning
+  - Deep Learning
+  - Gen AI
+  - RAG(Retrieval-Augmented Generation)
+  - Data Engineering
 
 ⚡ I enjoy solving DSA problems and building AI-powered applications.
 
@@ -37,7 +32,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-<a href="https://portfolio-website-demo-1.vercel.app/">
+<a href="https://peeyushverma.live">
 <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
 </a>
 
