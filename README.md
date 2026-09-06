@@ -3,7 +3,7 @@
 <h3 align="center">Data Science | AI/ML Enthusiast | Python Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Machine+Learning+Enthusiast;AI+Developer;Python+Programmer;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science;Machine+Learning+Enthusiast;AI+Developer;Python+Programmer;Open+Source+Learner" />
 </p>
 
 ---
