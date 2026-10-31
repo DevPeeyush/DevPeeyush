@@ -1,185 +1,181 @@
-# Hi 👋, I'm Peeyush Verma
+<h1 align="center">Hi 👋, I'm Peeyush Verma</h1>
 
-<h3 align="center">Data Science | AI/ML Enthusiast | Python Developer</h3>
+<h2 align="center">Data Science Engineer | AI/ML Engineer</h2>
+<h3 align="center">Generative AI • RAG • Agentic AI • NLP • MCP • FastAPI </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science;Machine+Learning+Enthusiast;AI+Developer;Python+Programmer;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Generative+AI+%26+RAG+Developer;Agentic+AI+with+LangGraph;Data+Science+%26+Python+Programmer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/peeyush-verma1"><img src="https://img.shields.io/badge/LinkedIn-peeyush--verma1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://peeyushverma.live"><img src="https://img.shields.io/badge/Portfolio-peeyushverma.live-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="mailto:peeyushju@gmail.com"><img src="https://img.shields.io/badge/Email-peeyushju@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech CSE (AI & ML) @ JECRC University
-📊 Passionate about Data Science, Machine Learning and Artificial Intelligence, GenAi, RAG
-💼 Complete Internship at Celebal Technology Pvt. Ltd. as Data Science Intern.
-💼 Complete Internship at Samatrix Consulting Pvt. Ltd. as  Data Analyst Intern.
-🌱 Currently Learning:
-  - Advanced Machine Learning
-  - Deep Learning
-  - Gen AI
-  - RAG(Retrieval-Augmented Generation)
-  - Data Engineering
-
-⚡ I enjoy solving DSA problems and building AI-powered applications.
+- 🎓 B.Tech CSE (AI & ML) @ **JECRC University**, Jaipur (2023 – 2027) · CGPA **8.26**
+- 🤖 Building LLM applications with **LangChain, LangGraph, Hugging Face, FAISS, FastAPI & Streamlit**
+- 💼 Completed **2 internships** — Data Science Intern @ **Celebal Technology** and Data Analyst Intern @ **Samatrix Consulting**
+- ⚡ Solved **300+ DSA problems** across LeetCode, HackerRank and Codeforces
+- 🌱 Currently exploring: Advanced RAG · Agentic AI · MCP · Deep Learning · Data Engineering
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/peeyush-verma1">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-<a href="https://peeyushverma.live">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/DevPeeyush">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-
-<a href="https://codolio.com/profile/PeeyushVerma">
-<img src="https://img.shields.io/badge/Codolio-Profile-orange?style=for-the-badge"/>
-</a>
-</p>
-
----
-
-# 🧩 DSA & Problem Solving
+## 🧩 Coding Profiles
 
 <p align="center">
-
-<a href="https://leetcode.com/u/MHWqpNfcI7/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://codeforces.com/profile/DevPeeyush">
-<img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/vermapeeyush123">
-<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-</p>
-
-<p align="center">
-<a href="https://codolio.com/profile/PeeyushVerma">
-<img src="https://img.shields.io/badge/View%20Complete%20DSA%20Profile-Codolio-success?style=for-the-badge"/>
-</a>
+  <a href="https://github.com/DevPeeyush"><img src="https://img.shields.io/badge/GitHub-DevPeeyush-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/MHWqpNfcI7/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/DevPeeyush"><img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/vermapeeyush123"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://codolio.com/profile/PeeyushVerma"><img src="https://img.shields.io/badge/Codolio-Complete%20DSA%20Profile-orange?style=for-the-badge"/></a>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,r,mysql,html,css,javascript" />
-</p>
-
-### AI / ML / Data Science
-- Pandas
-- NumPy
-- Scikit-Learn
-- TensorFlow
-- Keras
-- OpenCV
-- NLTK
-- Matplotlib
-- Seaborn
-
-### Backend & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,git,github,vscode,linux" />
-</p>
+<table>
+  <tr>
+    <td><b>Languages & Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,html,css" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>ML & Data Science</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy" /><br>
+      <sub>Matplotlib · Seaborn · NLTK · Keras · EDA · Feature Engineering · NLP</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Generative AI & LLM</b></td>
+    <td>
+      <sub>LLMs · RAG · LangChain · LangGraph · Agentic AI · Hugging Face · Sentence Transformers · Embeddings · FAISS · Vector Search · LangSmith · MCP</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend & Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,vscode,idea,linux" /><br>
+      <sub>Streamlit · REST APIs · Jupyter Notebook · Google Colab</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💼 Experience
 
-### Data Analyst Intern | Samatrix Consulting Pvt. Ltd.
+### 🛰️ Data Science Intern — Celebal Technology
+<sub>May 2026 – July 2026</sub>
 
-- Performed Data Cleaning and Preprocessing on real-world datasets
-- Conducted Exploratory Data Analysis (EDA)
-- Applied statistical techniques to identify trends and patterns
-- Generated actionable insights for data-driven decision-making
-- Worked extensively with Pandas, NumPy, and Scikit-Learn
+- Developed **EcoVision AI**, an end-to-end satellite image analysis system for land-use classification and temporal change detection using **PyTorch, ResNet18, custom CNNs and Streamlit**.
+- Built modular ingestion, preprocessing, training, validation and inference pipelines, using spatially contiguous splits to mitigate data leakage and 512-dimensional embeddings for temporal similarity mapping.
+- Implemented **GradCAM, t-SNE/UMAP**, automated unit testing and interactive Streamlit visualizations for model interpretability and change detection.
+
+### 📊 Data Analyst Intern — Samatrix Consulting Pvt. Ltd.
+<sub>June 2025 – July 2025</sub>
+
+- Conducted portfolio risk analysis across 5 financial assets using **Python, Pandas, NumPy, SciPy and yFinance** on 1,526 daily observations.
+- Implemented **95% VaR** (Normal, Student's t, Historical), Expected Shortfall, hypothesis testing, correlation, maximum drawdown and recovery analysis.
+- Ran 1,000-iteration bootstrap estimation and VaR backtesting: **5.05% exceptions vs. 5% expected**, 55.49% max drawdown and 913-day recovery.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📩 SMS Spam Detection System
-- Machine Learning web application for spam classification
-- TF-IDF Vectorization
-- FastAPI Backend
-- Streamlit Frontend
-- Achieved ~95% Accuracy
-
-### 🏏 IPL Data Analysis (2008–2023)
-- Statistical Analysis of IPL datasets
-- Team Performance Insights
-- Feature Engineering
-- Data Visualization
-- Hypothesis Testing
-
-### 🌾 AI Crop Disease Detection
-- Developed during Code For Bharat Season-2
-- Computer Vision-based Disease Detection
-- Crop Health & Nutrition Analysis
-- Farmer Assistance System
-
----
-
-## 🏆 Certifications
-
-✅ Data Analysis Using Python
-
-✅ Probability Modelling Using Python
-
-✅ Machine Learning and Pattern Recognition
-
----
-
-## 📊 GitHub Analytics
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛰️ EcoVision AI</h3>
+      Satellite image analysis for land-use classification and temporal change detection, with GradCAM and t-SNE/UMAP interpretability.<br><br>
+      <code>PyTorch</code> <code>ResNet18</code> <code>CNN</code> <code>GradCAM</code> <code>Streamlit</code><br><br>
+      <a href="https://github.com/DevPeeyush?tab=repositories"><img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖼️ Recall — AI Image Search</h3>
+      Visual and OCR-based image retrieval platform. Client-side compression and background CLIP/OCR indexing give a <b>&lt;2s upload response</b>.<br><br>
+      <code>FastAPI</code> <code>CLIP</code> <code>OCR</code> <code>Computer Vision</code> <code>JavaScript</code><br><br>
+      <a href="https://github.com/DevPeeyush/Recall"><img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Chatbot using RAG</h3>
+      Context-aware RAG chatbot over a local knowledge base, with an agentic workflow (RAG + calculator tools) and real-time execution tracing.<br><br>
+      <code>LangGraph</code> <code>LangChain</code> <code>Groq LLM</code> <code>Gemini Embeddings</code> <code>FAISS</code> <code>Streamlit</code><br><br>
+      <a href="https://github.com/DevPeeyush?tab=repositories"><img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📩 SMS Spam Detection</h3>
+      NLP model that classifies SMS messages as Spam or Ham (~95% accuracy), deployed as an interactive Streamlit app.<br><br>
+      <code>Scikit-learn</code> <code>NLTK</code> <code>TF-IDF</code> <code>Pandas</code> <code>Streamlit</code><br><br>
+      <a href="https://github.com/DevPeeyush/Email-Sms-Detection"><img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📉 Portfolio Risk Analysis</h3>
+      VaR, Expected Shortfall, bootstrap and backtesting on 5 financial assets, built during my Samatrix internship.<br><br>
+      <code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>SciPy</code> <code>yFinance</code><br><br>
+      <a href="https://github.com/DevPeeyush/Samatrix-Internship"><img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌾 AI Crop Disease Detection</h3>
+      Computer-vision crop disease detection and farmer assistance system, built at <i>Code For Bharat Season-2</i>.<br><br>
+      <code>Python</code> <code>Computer Vision</code><br><br>
+      <a href="https://github.com/DevPeeyush/KrishiAi"><img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github"/></a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevPeeyush&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPeeyush&layout=compact&theme=tokyonight"/>
+  <a href="https://github.com/DevPeeyush?tab=repositories">👉 See all repositories</a>
+</p>
+
+---
+
+## 🏆 Certifications & Achievements
+
+- ✅ DeepLearning.AI — Machine Learning, Deep Learning
+- ✅ PW Skills — Data Structures & Algorithms using Java
+- ✅ Data Analysis Using Python
+- ✅ Probability Modelling Using Python
+- ✅ Machine Learning and Pattern Recognition
+- ✅ Solved 300+ DSA problems on LeetCode, HackerRank and Codeforces
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevPeeyush&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPeeyush&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevPeeyush&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=DevPeeyush&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DevPeeyush&theme=tokyonight&column=7"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
-[![Peeyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevPeeyush&theme=tokyo-night)](https://github.com/DevPeeyush)
+<p align="center">
+  <img src="https://ghchart.rshah.org/2F81F7/DevPeeyush" alt="DevPeeyush's contribution graph"/>
+</p>
 
 ---
 
 ## 📫 Contact
 
-- Email: peeyushju@gmail.com
-- LinkedIn: https://www.linkedin.com/in/peeyush-verma1
-- Portfolio: https://portfolio-website-demo-1.vercel.app/
-- GitHub: https://github.com/DevPeeyush
+- 📧 Email: [peeyushju@gmail.com](mailto:peeyushju@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/peeyush-verma1](https://www.linkedin.com/in/peeyush-verma1)
+- 🌐 Portfolio: [peeyushverma.live](https://peeyushverma.live)
+- 🐙 GitHub: [github.com/DevPeeyush](https://github.com/DevPeeyush)
 
----
-
-<h3 align="center">
-⭐ Turning Data into Insights and Ideas into Intelligent Solutions ⭐
-</h3>
+<h3 align="center">⭐ Turning Data into Insights and Ideas into Intelligent Solutions ⭐</h3>
