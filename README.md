@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peeyush Verma</h1>
 
 <h2 align="center">Data Science Engineer | AI/ML Engineer</h2>
-<h3 align="center">Generative AI • RAG • Agentic AI • NLP • MCP • FastAPI </h3>
+<!-- <h3 align="center">Generative AI • RAG • Agentic AI • NLP • MCP • FastAPI </h3> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Generative+AI+%26+RAG+Developer;Agentic+AI+with+LangGraph;Data+Science+%26+Python+Programmer" alt="Typing SVG" />
