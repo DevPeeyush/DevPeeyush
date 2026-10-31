@@ -43,28 +43,20 @@
   <tr>
     <td><b>Languages & Databases</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,html,css" />
+      <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres" />
     </td>
   </tr>
   <tr>
     <td><b>ML & Data Science</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy" /><br>
-      <sub>Matplotlib · Seaborn · NLTK · Keras · EDA · Feature Engineering · NLP</sub>
-    </td>
+    <td>PyTorch · TensorFlow · Scikit-learn · Keras · OpenCV · NumPy · Pandas · Matplotlib · Seaborn · NLTK · EDA · Feature Engineering · NLP</td>
   </tr>
   <tr>
     <td><b>Generative AI & LLM</b></td>
-    <td>
-      <sub>LLMs · RAG · LangChain · LangGraph · Agentic AI · Hugging Face · Sentence Transformers · Embeddings · FAISS · Vector Search · LangSmith · MCP</sub>
-    </td>
+    <td>LLMs · RAG · LangChain · LangGraph · Agentic AI · Hugging Face · Sentence Transformers · Embeddings · FAISS · Vector Search · LangSmith · MCP</td>
   </tr>
   <tr>
     <td><b>Backend & Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,vscode,idea,linux" /><br>
-      <sub>Streamlit · REST APIs · Jupyter Notebook · Google Colab</sub>
-    </td>
+    <td>FastAPI · Flask · Streamlit · REST APIs · HTML · CSS · Git · GitHub · VS Code · IntelliJ IDEA · Jupyter Notebook · Google Colab · Linux</td>
   </tr>
 </table>
 
@@ -155,12 +147,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevPeeyush&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPeeyush&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com?user=DevPeeyush&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevPeeyush&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <a href="https://github.com/DevPeeyush?tab=followers"><img src="https://img.shields.io/github/followers/DevPeeyush?style=for-the-badge&logo=github&label=Followers"/></a>
+  <a href="https://github.com/DevPeeyush?tab=repositories"><img src="https://img.shields.io/badge/Repositories-19-2F81F7?style=for-the-badge&logo=github"/></a>
 </p>
 
 ## 📈 Contribution Graph
